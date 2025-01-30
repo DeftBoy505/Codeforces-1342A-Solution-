@@ -1,0 +1,1 @@
+# Codeforces-1342A-Solution-
